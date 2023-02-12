@@ -1,2 +1,2 @@
 # data_1_checks
-CodeLouisville Knowledge Checks
+The Repo is to store all Adam Turner's CodeLouisville Knowledge Checks.
