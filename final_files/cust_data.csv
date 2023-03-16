@@ -1,0 +1,201 @@
+customer_id,customer_name_first,customer_name_last,region,years_served
+1001,James,Smith,North East,1
+1002,Robert,Johnson,North West,5
+1003,John,Williams,South,5
+1004,Michael,Brown,South East,2
+1005,David,Jones,South West,16
+1006,William,Garcia,North,4
+1007,Richard,Miller,West,7
+1008,Joseph,Davis,East,1
+1009,Thomas,Rodriguez,Central,3
+1010,Charles,Martinez,North East,4
+1011,Christopher,Hernandez,North West,12
+1012,Daniel,Lopez,South,8
+1013,Matthew,Gonzales,South East,10
+1014,Anthony,Wilson,South West,6
+1015,Mark,Anderson,North,8
+1016,Donald,Thomas,West,8
+1017,Steven,Taylor,East,6
+1018,Paul,Moore,Central,4
+1019,Andrew,Jackson,North East,16
+1020,Joshua,Martin,North West,18
+1021,Kenneth,Lee,South,2
+1022,Kevin,Perez,South East,3
+1023,Brian,Thompson,South West,10
+1024,George,White,North,9
+1025,Timothy,Harris,West,7
+1026,Ronald,Sanchez,East,17
+1027,Edward,Clark,Central,18
+1028,Jason,Ramirez,North East,4
+1029,Jeffrey,Lewis,North West,4
+1030,Ryan,Robinson,South,5
+1031,Jacob,Walker,South East,6
+1032,Gary,Young,South West,1
+1033,Nicholas,Allen,North,7
+1034,Eric,King,West,6
+1035,Jonathan,Wright,East,4
+1036,Stephen,Scott,Central,8
+1037,Larry,Torres,North East,9
+1038,Justin,Nguyen,North West,5
+1039,Scott,Hill,South,3
+1040,Brandon,Flores,South East,2
+1041,Benjamin,Green,South West,16
+1042,Samuel,Adams,North,14
+1043,Gregory,Nelson,West,18
+1044,Alexander,Baker,East,13
+1045,Frank,Hall,Central,11
+1046,Patrick,Rivera,North East,10
+1047,Raymond,Campbell,North West,19
+1048,Jack,Mitchell,South,5
+1049,Dennis,Carter,South East,17
+1050,Jerry,Roberts,South West,3
+1051,Tyler,Gomez,North,19
+1052,Aaron,Phillips,West,4
+1053,Jose,Evans,East,18
+1054,Adam,Turner,Central,10
+1055,Nathan,Diaz,North East,1
+1056,Henry,Parker,North West,5
+1057,Douglas,Cruz,South,5
+1058,Zachary,Edwards,South East,2
+1059,Peter,Collins,South West,16
+1060,Kyle,Reyes,North,4
+1061,Ethan,Stewart,West,7
+1062,Walter,Morris,East,1
+1063,Noah,Morales,Central,3
+1064,Jeremy,Murphy,North East,4
+1065,Christian,Cook,North West,12
+1066,Keith,Rogers,South,8
+1067,Roger,Gutierrez,South East,10
+1068,Terry,Ortiz,South West,6
+1069,Gerald,Morgan,North,8
+1070,Harold,Cooper,West,8
+1071,Sean,Peterson,East,6
+1072,Austin,Bailey,Central,4
+1073,Carl,Reed,North East,16
+1074,Arthur,Kelly,North West,18
+1075,Lawrence,Howard,South,2
+1076,Dylan,Ramos,South East,3
+1077,Jesse,Kim,South West,10
+1078,Jordan,Cox,North,9
+1079,Bryan,Ward,West,7
+1080,Billy,Richardson,East,17
+1081,Joe,Watson,Central,18
+1082,Bruce,Brooks,North East,4
+1083,Gabriel,Chavez,North West,4
+1084,Logan,Wood,South,5
+1085,Albert,James,South East,6
+1086,Willie,Bennet,South West,1
+1087,Alan,Gray,North,7
+1088,Juan,Mendoza,West,6
+1089,Wayne,Ruiz,East,4
+1090,Elijah,Hughes,Central,8
+1091,Randy,Price,North East,9
+1092,Roy,Alvarez,North West,5
+1093,Vincent,Castillo,South,3
+1094,Ralph,Sanders,South East,2
+1095,Eugene,Patel,South West,16
+1096,Russell,Myers,North,14
+1097,Bobby,Long,West,18
+1098,Mason,Ross,East,13
+1099,Philip,Foster,Central,11
+1100,Louis,Jimenez,North East,10
+1101,Mary,Smith,North West,19
+1102,Patricia,Johnson,South,5
+1103,Jennifer,Williams,South East,17
+1104,Linda,Brown,South West,3
+1105,Elizabeth,Jones,North,19
+1106,Barbara,Garcia,West,4
+1107,Susan,Miller,East,18
+1108,Jessica,Davis,Central,10
+1109,Sarah,Rodriguez,North East,1
+1110,Karen,Martinez,North West,5
+1111,Lisa,Hernandez,South,5
+1112,Nancy,Lopez,South East,2
+1113,Betty,Gonzales,South West,16
+1114,Margaret,Wilson,North,4
+1115,Sandra,Anderson,West,7
+1116,Ashley,Thomas,East,1
+1117,Kimberly,Taylor,Central,3
+1118,Emily,Moore,North East,4
+1119,Donna,Jackson,North West,12
+1120,Michelle,Martin,South,8
+1121,Carol,Lee,South East,10
+1122,Amanda,Perez,South West,6
+1123,Dorothy,Thompson,North,8
+1124,Melissa,White,West,8
+1125,Deborah,Harris,East,6
+1126,Stephanie,Sanchez,Central,4
+1127,Rebecca,Clark,North East,16
+1128,Sharon,Ramirez,North West,18
+1129,Laura,Lewis,South,2
+1130,Cynthia,Robinson,South East,3
+1131,Kathleen,Walker,South West,10
+1132,Amy,Young,North,9
+1133,Angela,Allen,West,7
+1134,Shirley,King,East,17
+1135,Anna,Wright,Central,18
+1136,Brenda,Scott,North East,4
+1137,Pamela,Torres,North West,4
+1138,Emma,Nguyen,South,5
+1139,Nicole,Hill,South East,6
+1140,Helen,Flores,South West,1
+1141,Samantha,Green,North,7
+1142,Katherine,Adams,West,6
+1143,Christine,Nelson,East,4
+1144,Debra,Baker,Central,8
+1145,Rachel,Hall,North East,9
+1146,Carolyn,Rivera,North West,5
+1147,Janet,Campbell,South,3
+1148,Catherine,Mitchell,South East,2
+1149,Maria,Carter,South West,16
+1150,Heather,Roberts,North,14
+1151,Diane,Gomez,West,18
+1152,Ruth,Phillips,East,13
+1153,Julie,Evans,Central,11
+1154,Olivia,Turner,North East,10
+1155,Joyce,Diaz,North West,19
+1156,Virginia,Parker,South,5
+1157,Victoria,Cruz,South East,17
+1158,Kelly,Edwards,South West,3
+1159,Lauren,Collins,North,19
+1160,Christina,Reyes,West,4
+1161,Joan,Stewart,East,18
+1162,Evelyn,Morris,Central,10
+1163,Judith,Morales,North East,1
+1164,Megan,Murphy,North West,5
+1165,Andrea,Cook,South,5
+1166,Cheryl,Rogers,South East,2
+1167,Hannah,Gutierrez,South West,16
+1168,Jacqueline,Ortiz,North,4
+1169,Martha,Morgan,West,7
+1170,Gloria,Cooper,East,1
+1171,Teresa,Peterson,Central,3
+1172,Ann,Bailey,North East,4
+1173,Sara,Reed,North West,12
+1174,Madison,Kelly,South,8
+1175,Frances,Howard,South East,10
+1176,Kathryn,Ramos,South West,6
+1177,Janice,Kim,North,8
+1178,Jean,Cox,West,8
+1179,Abigail,Ward,East,6
+1180,Alice,Richardson,Central,4
+1181,Julia,Watson,North East,16
+1182,Judy,Brooks,North West,18
+1183,Sophia,Chavez,South,2
+1184,Grace,Wood,South East,3
+1185,Denise,James,South West,10
+1186,Amber,Bennet,North,9
+1187,Doris,Gray,West,7
+1188,Marilyn,Mendoza,East,17
+1189,Danielle,Ruiz,Central,18
+1190,Beverly,Hughes,North East,4
+1191,Isabella,Price,North West,4
+1192,Theresa,Alvarez,South,5
+1193,Diana,Castillo,South East,6
+1194,Natalie,Sanders,South West,1
+1195,Brittany,Patel,North,7
+1196,Charlotte,Myers,West,6
+1197,Marie,Long,East,4
+1198,Kayla,Ross,Central,8
+1199,Alexis,Foster,North East,9
+1200,Lori,Jimenez,North West,5
