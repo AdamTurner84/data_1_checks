@@ -10,11 +10,14 @@ Project Description --
 For this project I created a sales data set. The goal is that a Fruit and Veggie sales company wants to know their top most profitable customers and their most profitable regions of sales. Their data is currently being stored in three different files. Two of the files are saved in .csv format and one is stored in .xslx format. My goal is to create code that will import the data into Python and set up one master file. Once the data has been stored in a master file it will need to be cleaned (removing NaN values, selecting only the columns needed, and making sure data types are correct.) After the cleaning of the data the code will analyze the sales figures to locate the top 15 most profitable customers and the most profitable region. I will also make graphs that will give a pictoral representation of this data.
 
 Relavant Packages -- 
-This code was created in Visual Studio Code with Jupyter Notebooks. Jupyter notebooks will need to be installed on the IDE you are working with. To run this code you will need to install the latest version of Python and the packages Pandas, Numpy and Matplotlib. These packages can be installed by going to the command prompt (PC) Terminal (Mac) and run:
+This code was created in Visual Studio Code with Jupyter Notebooks. Jupyter notebooks will need to be installed on the IDE you are working with. To run this code you will need to install the latest version of Python and the packages Pandas, Numpy, Matplotlib and Seaborn. These packages can be installed by going to the command prompt (PC) Terminal (Mac) and run:
 
 pip3 install pandas
 pip3 install numpy
 pip3 install matplotlib
+pip3 install seaborn
+
+Once the above packages have been installed open the Jupyter Notebook titled 'friut_veg_final.ipynb' and run the code.
 
 Features -- 
 1. Reading the data into Python from .csv and .xlsx files. 
